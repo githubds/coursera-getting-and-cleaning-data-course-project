@@ -17,8 +17,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 3. CodeBook.md --Codebook for the tidy data. This document explains how the tidy data has been created.
 
 ##Prerequisites
-1. All the data files are present in the current working directory where you will run run_analysis.R
-2. dplyr, plyr libraries are installed and available in R enviornment
+* dplyr, plyr libraries are installed and available in R enviornment
+* All the data files are present in the current working directory where you will run run_analysis.R
 
 1. y_train.txt 
 2. x_train.txt
