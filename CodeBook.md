@@ -1,4 +1,5 @@
-#This document explains the followings,-
+#CodeBook (Coursera project - Getting and cleaning data project)
+#####This document explains the followings,-
 1. The variables in the tidydata
 2. Tidy data
 3. How Raw data is cleaned up to arrive the tidy data
