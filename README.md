@@ -7,11 +7,11 @@
 
 ##Prerequisites
 All the data files are present in the current working directory where you will run run_analysis.R
-	*y_train.txt 
-	*x_train.txt
-	*y_test.txt
-	*x_test.txt
-	*subject_train.txt
-	*subject_test.txt 
-	*activity_labels.txt
-	*features.txt
+	* y_train.txt 
+	* x_train.txt
+	* y_test.txt
+	* x_test.txt
+	* subject_train.txt
+	* subject_test.txt 
+	* activity_labels.txt
+	* features.txt
